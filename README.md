@@ -6,4 +6,4 @@ This project is a comprehensive guide and implementation of automated testing us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/selenium-with-java.git
+   git clone https://github.com/sunnybabu98/seleniumjava.git
