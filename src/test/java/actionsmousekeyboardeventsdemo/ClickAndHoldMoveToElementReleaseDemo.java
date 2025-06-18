@@ -37,6 +37,7 @@ public class ClickAndHoldMoveToElementReleaseDemo {
 		actions.clickAndHold(stockholmCapital).moveToElement(swedenCountry).release().build().perform();
 		actions.clickAndHold(copenhagenCaptial).moveToElement(denmarkCoutry).release().build().perform();
 		actions.clickAndHold(madridCapital).moveToElement(spainCountry).release().build().perform();
+		//actions.clickAndHold(madridCapital).moveToElement(spainCountry).release().build().perform();
 	}
 
 }
